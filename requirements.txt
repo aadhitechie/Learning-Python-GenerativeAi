@@ -1,3 +1,4 @@
 ipkernel
 numpy
 shutle
+streamlit
